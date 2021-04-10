@@ -6,9 +6,6 @@ package hu.bme.mit.spaceship;
 */
 public enum FiringMode {
   SINGLE, ALL
-<<<<<<< HEAD
-  //test szerkesztess
-=======
-  //test not branch A
->>>>>>> branch-B
 }
+//test szerkesztess
+//test not branch A
